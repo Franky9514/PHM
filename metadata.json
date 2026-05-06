@@ -1,0 +1,6 @@
+{
+  "name": "PHM-Intelligent-Predict",
+  "description": "工业设备健康管理(PHM)系统 - 基于DeepHit竞争风险预测与LSTM时序建模的可视化平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
